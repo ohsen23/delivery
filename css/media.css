@@ -1,0 +1,180 @@
+@media (max-width:1410px) {
+    header .nav-link{
+        width: 100%;
+        margin-left: 0;
+        margin-top: 10px;
+     font-size: 10px;
+    }
+}
+
+
+
+
+@media (max-width:1000px) {
+    header .call{
+        margin-left: 24px;
+    
+    } 
+    .once{
+       margin-left: 200px; 
+    }
+    
+    .rul{
+        display: flex;
+        
+    }
+    
+    .start{
+        margin-left: 7px;
+    }
+    
+    .crist{
+        display:flex;
+    }
+    .flow{
+        display: flex;
+       
+    }
+}
+
+@media (max-width:500px) {
+    header .call{
+        margin-top: 5px;
+        
+    } 
+    
+    .input{
+        width: 250px;
+    }
+    
+}
+
+
+@media (max-width:1680px) {
+    .info{
+      margin-left: 20px;
+        
+    }
+    .info_p2{
+        width:350px;
+    } 
+}
+
+@media (max-width:450px) {
+    .info_p3{
+       font-size: 18px;
+    } 
+    .butt{
+        display: flex;
+        flex-direction: column;
+    }
+    .info_button{
+        width: 183px;
+        height: 45px;
+    }
+}
+
+
+@media (max-width:1000px) {
+   
+    
+    .section1_p3 {
+        margin-top: 10px;
+        font-size: 15px;
+        display: flex;
+        justify-content: start; 
+        width: 350px; 
+    }
+    
+
+}
+
+@media(max-width:1207px){
+    .regist{
+        margin: 0;
+    }
+    
+    .eco_p1{
+        margin-left: 0;
+    }
+}
+
+@media(max-width:540px){
+    .once{
+        margin-right: 150px;
+    }
+    .map{
+        width: 500px;
+        margin-top:25px
+    }
+}
+
+
+
+@media(max-width:1245px){
+  
+    .water{
+       text-align: center;
+    }
+    
+    .optima{
+        display:flex;
+        justify-content: center;
+        
+    }
+
+
+}
+
+@media(max-width:1022px){
+    .ecobr{
+        display:flex;
+        justify-content: center;
+    }
+}
+@media(max-width:981px){
+   .eco_p1{
+       width: 500px;
+   }
+   .eco_p2{
+    width: 500px;
+}
+
+
+}
+
+@media(max-width:814px){
+    .tony{
+        text-align: center;
+    }
+    .caal{
+        display:flex;
+        justify-content: center;
+        
+    }
+}
+
+@media(max-width:1400px){
+
+  
+  .tab{
+      width: 250px;
+  }
+   
+   .sallo{
+       padding: 10px 25px;
+   }
+  
+   
+}
+
+
+@media(max-width:1322px){
+    .crist{
+        display: flex;
+        justify-content: center;
+     flex-direction: column;
+  }   
+}
+
+
